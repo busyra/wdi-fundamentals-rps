@@ -114,3 +114,4 @@ function playToFive() {
     return "Finale score is Player: "+playerWins + " Computer: "+computerWins;
 }
 playToFive();
+//final ver.
