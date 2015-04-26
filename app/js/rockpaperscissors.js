@@ -76,6 +76,7 @@ function getWinner(playerMove,computerMove) {
     			{
     			winner="computer"
     			}
+    	}
     return winner;
 }
 
